@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "My Jekyll"
+date:   2013-05-24 22:31:21
+categories: jekyll update blub
+---
+ein test
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
+
+{% include footer.html %}
